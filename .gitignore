@@ -1,0 +1,5 @@
+#ignore these files when creating repo
+#
+my-detest.sql
+my-drupal-db-backup.sql
+sites/default/settings.php
